@@ -1,6 +1,6 @@
-# vue-hackernews-2.0
+# Vue boilerplate with SSR and webpack
 
-HackerNews clone built with Vue 2.0 + vue-router + vuex, with server-side rendering.
+Built with Vue 2.0 + vue-router + vuex, with server-side rendering.
 
 The project is based on https://github.com/vuejs/vue-hackernews-2.0 but deleted everything unnecessary, 
 configured SCSS and CSS modules + https://www.antdv.com/ added
